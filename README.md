@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangy227&show_icons=true&theme=radical)
 
-<a href="s">
+<a href="s" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangy227&exclude_repo=sangy227.github.io&layout=compact&theme=radical" />
 </a>
 
