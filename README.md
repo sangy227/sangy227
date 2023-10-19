@@ -7,4 +7,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=sangy227&theme=tokyonight&show_icons=true" width="42%" />
 </a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangy227&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
 
