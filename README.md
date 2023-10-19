@@ -4,5 +4,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangy227&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangy227&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://raw.githubusercontent.com/sangy227/github-stats-transparent/output/generated/languages.svg)
 
